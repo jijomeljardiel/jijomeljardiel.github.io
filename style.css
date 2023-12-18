@@ -406,7 +406,7 @@ img {
   .about__img img {
     width: 300px;
   }
-  .work__container {
+  .resume|projects|skill__container {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
     column-gap: 2rem;
